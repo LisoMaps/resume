@@ -11,7 +11,7 @@ Education
 =========
 <img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Appalachian_State_Mountaineers_logo.svg/1200px-Appalachian_State_Mountaineers_logo.svg.png" alt="App logo" width="75"/>
 
-####Appalachian State University
+#### Appalachian State University
 ##### Boone, NC, USA
 ###### (Fall 2018 - Fall 2021)
 - B.S in General Geography with a minor in Biology
