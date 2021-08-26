@@ -6,8 +6,8 @@
 
 ###### weircf@appstate.edu | 678-670-3593
 ___
-Education
-=========
+# Education
+
 <img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Appalachian_State_Mountaineers_logo.svg/1200px-Appalachian_State_Mountaineers_logo.svg.png" alt="App logo" width="75"/>
 
 #### Appalachian State University
@@ -33,8 +33,8 @@ Education
 - Co-founder of Garage-Band Club
 - Tom Zachary VIP Award winner
 ___
-Experience
-==========
+
+# Experience
 
 #### Undergraduate Researcher
 ##### Mentor: [Dr. Kathleen Schroeder](https://geo.appstate.edu/faculty-staff/kathleen-schroeder)
@@ -59,8 +59,8 @@ link picture of model from e-portfolio website to "social network model" once e-
 link URA page from e-portfolio website to "URA" once e-portfolio is up
 -->
 ___
-Goals
-=====
+
+# Goals
 
 - Use mapping to help those in need
 - Contribute to a cause that's _bigger than myself_
