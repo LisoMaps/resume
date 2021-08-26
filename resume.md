@@ -1,10 +1,10 @@
 [Chip Weir](https://www.linkedin.com/in/chip-weir-335a711a8/)
 =========
 
-weircf@appstate.edu | 678-670-3593
-
 #### Undergraduate Senior
 ###### Department of Geography and Planning | Appalachian State University | Boone, NC, USA
+
+###### weircf@appstate.edu | 678-670-3593
 ___
 Education
 =========
