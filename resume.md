@@ -32,6 +32,7 @@ ___
 - Intramural Basketball Champion
 - Co-founder of Garage-Band Club
 - Tom Zachary VIP Award winner
+
 ___
 
 # Experience
