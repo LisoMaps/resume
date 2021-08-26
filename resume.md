@@ -1,8 +1,7 @@
 [Chip Weir](https://www.linkedin.com/in/chip-weir-335a711a8/)
 =========
 
-weircf@appstate.edu
-678-670-3593
+weircf@appstate.edu | 678-670-3593
 
 #### Undergraduate Senior
 ###### Department of Geography and Planning | Appalachian State University | Boone, NC, USA
@@ -52,7 +51,7 @@ link picture of model from e-portfolio website to "social network model" once e-
 ##### Mentor: [Dr. Johnathan Sugg](https://geo.appstate.edu/faculty-staff/johnathan-sugg)
 ###### (October 2020 - May 2021)
 - Examined the geographic variation of the relationship between politics and climate change beliefs in the U.S.
-- Created _many_ different map products in ArcPro
+- Created _many_ different map products in ArcPro and ArcMap
 - Worked extensively in Microsoft Excel
 - Presented research poster at Student Research Day 2021
 
